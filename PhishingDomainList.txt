@@ -86,3 +86,4 @@ deprem1.wesdteam.org
 destekformubireyselbasvuru.line.pm
 hemendestek.cf
 hemendestek.ml
+deprem23.com
